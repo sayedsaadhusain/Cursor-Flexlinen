@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/category/[id]/page": "app/category/[id]/page.js",
+  "/collections/[id]/page": "app/collections/[id]/page.js",
+  "/collections/page": "app/collections/page.js",
+  "/collections/lowers/page": "app/collections/lowers/page.js",
+  "/page": "app/page.js",
+  "/policies/page": "app/policies/page.js",
+  "/shop/[id]/page": "app/shop/[id]/page.js",
+  "/wishlist/page": "app/wishlist/page.js",
+  "/shop/page": "app/shop/page.js"
+}
